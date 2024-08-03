@@ -3,7 +3,7 @@
 
 ![header](https://raw.githubusercontent.com/avinash-218/avinash-218/main/Images/git-header.svg)
 
-I'm a full stack software engineer having almost 3 years of experience developing and delivering which are handling millions of users daily. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
+I'm a full stack software engineer having almost 5+ years of experience developing and delivering which are handling millions of users daily. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
 
 ### About Me:
 
