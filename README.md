@@ -3,7 +3,18 @@
 
 ![header](https://raw.githubusercontent.com/avinash-218/avinash-218/main/Images/git-header.svg)
 
-I'm a full stack software engineer having almost 5+ years of experience developing and delivering which are handling millions of users daily. I have a deep interest and passion for technology. I love writing and owning codes and enjoy working with people who will keep challenging you at every stage. I have strong problem solving, analytic, decision-making and excellent communication with interpersonal skills. I'm self-driven and motivated with the desire to work in a fast-paced, results-driven agile environment with varied responsibilities. I love to challenge myself to deliver these solutions with the highest quality.
+<h1>Hi, I’m Vishnu 👋</h1>
+<p>
+  Senior Software Engineer at <b>Amazon (AWS QuickSight)</b> with 6+ years of
+  experience building <b>scalable, distributed, and customer-facing systems</b>.
+  I specialize in <b>full-stack development, cloud-native architectures, and automation</b>
+  that accelerates product launches and reduces operational overhead.
+</p>
+<p>
+  Currently, I design and deliver features that power analytics for thousands of
+  enterprise customers worldwide. Passionate about <b>system design, developer productivity</b>,
+  and solving complex engineering challenges.
+</p>
 
 ### About Me:
 
@@ -38,7 +49,7 @@ I'm a full stack software engineer having almost 5+ years of experience developi
 </a>
 
 ### A 🐍  Eating away my Contributions 😭
-![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/eagrundy/eagrundy/refs/heads/output/github-contribution-grid-snake.svg)
 
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
